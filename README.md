@@ -1,4 +1,3 @@
-```markdown
 # Lung Cancer Detection Using Pretrained VGG16 Model
 
 This model is built upon the pretrained model VGG16 built in keras library. It can distinguish between three types of lung status (e.g., adenocarcinoma infected lung, normal lung, squamous cell carcinoma infected lung) using histopathological coloured images.
